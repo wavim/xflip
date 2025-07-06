@@ -1,12 +1,12 @@
 {
-	"name": "package",
+	"name": "xflip",
 	"author": "CarbonicSoda",
 	"version": "0.0.0-reserve",
-	"description": "",
+	"description": "Xtend-Flex Lang-Lex Interpretation Parser",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/CarbonicSoda/"
+		"url": "https://github.com/CarbonicSoda/xflip"
 	},
 	"keywords": [],
 	"type": "module",

@@ -1,9 +1,8 @@
 <h3 align="center">
-	<!-- MO TODO dont forget to replace alt -->
-	<img src="https://raw.githubusercontent.com/CarbonicSoda//master/media/icon.png" width="130" alt="Icon" /><br />
-
+	<img src="https://raw.githubusercontent.com/CarbonicSoda/xflip/master/media/icon.png" width="130" alt="XFLIP Icon" /><br />
+	XFLIP
 </h3>
-<p align="center"></p>
+<p align="center">Xtend-Flex Lang-Lex Interpretation Parser</p>
 
 ---
 
@@ -13,13 +12,13 @@ Install this package in your project:
 
 ```bash
 # via npm
-npm add
+npm add xflip
 
 # or pnpm
-pnpm add
+pnpm add xflip
 
 # or yarn
-yarn add
+yarn add xflip
 ```
 
 ---
