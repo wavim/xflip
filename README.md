@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/CarbonicSoda/xflip/master/media/icon.png" width="130" alt="XFLIP Icon" /><br />
+	<img src="https://raw.githubusercontent.com/wavim/xflip/master/media/icon.png" width="130" alt="XFLIP Icon" /><br />
 	XFLIP
 </h3>
 <p align="center">Xtend-Flex Lang-Lex Interpretation Parser</p>
@@ -24,3 +24,4 @@ yarn add xflip
 ---
 
 _&emsp;_
+
