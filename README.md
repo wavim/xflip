@@ -1,27 +1,20 @@
-<h3 align="center">
-	<img src="https://raw.githubusercontent.com/wavim/xflip/master/media/icon.png" width="130" alt="XFLIP Icon" /><br />
-	XFLIP
-</h3>
+<h3 align="center">XFLIP</h3>
 <p align="center">Xtend-Flex Lang-Lex Interpretation Parser</p>
 
----
+### ABANDONED
 
-### Usage
+XFLIP is abandoned after deliberate considerations. Mixed feelings.
 
-Install this package in your project:
+For the lexer generator, I was thinking of implementing a LALR parser for regex, translating them to
+NFAs with Thompson's construction, then combine them and convert them to a DFA via subset's
+construction, and minify.
 
-```bash
-# via npm
-npm add xflip
+For the parser generator, I was thinking of implementing a finite pushdown automata, but never
+thought of the details.
 
-# or pnpm
-pnpm add xflip
+But it did not end up well. Tools like Jison existed,having based on Flex/Bison, they would be
+better than whatever I would be able to write. Afterall, I'm not seriously interested in language
+theory and automatons, but rather convicted to other fields of mathematics.
 
-# or yarn
-yarn add xflip
-```
-
----
-
-_&emsp;_
-
+Maybe one day I would look back and regret not to complete this project, but I deem this a correct
+choice to listen to my actual interests. That's all.
